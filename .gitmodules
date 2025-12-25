@@ -1,0 +1,3 @@
+[submodule "storer"]
+	path = storer
+	url = https://github.com/naoyaikeda/picture-store-anime-storer
